@@ -30,6 +30,8 @@ const App = () => {
     }
   }
 
+
+  
   return (
     <div className={`app ${theme}`}>
       <label className='switch'>
